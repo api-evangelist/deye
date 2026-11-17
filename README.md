@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Deye Cloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Deye Cloud provides a cloud platform for managing and monitoring solar energy solutions. The website emphasizes security and privacy, offering terms of service and privacy policy pages. It includes a developer portal, product downloads, and contact information. The service targets users of solar technology, offering tools and resources for integration and management.
 
-**Areas:** Company
+**Areas:** Developer Portal · Cloud Services · Privacy · Security · Login
 
 ## Deye Cloud on APIs.io
 
 Everything profiled for Deye Cloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/deye/](https://apis.io/providers/deye/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [DeyeCloud API](https://apis.io/apis/deye/deyecloud-api/) — Developer portal offering OpenAPI and MCP Server information, but no machine-readable spec found.
 
 ### Published properties
 
@@ -86,21 +90,22 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://deyecloud.com/)
-- [Documentation](https://developer.deyecloud.com/)
+- [Website](https://www.deyecloud.com/)
+- [Terms of service](https://eu1.deyecloud.com/EU-TermsOfService-en.html)
+- [Privacy policy](https://eu1.deyecloud.com/EU-PrivacyPolicy-en.html)
 
 ## API Evangelist rating
 
-**Kin Score 2.3** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 11.3** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 26.8 |
+| Discoverability | 53.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 0.0 |
+| Access clarity | 21.1 |
 
 **Agent readiness 3.1** — human-only
 
@@ -129,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/deye/](https://apis.io/providers/deye/).
 
